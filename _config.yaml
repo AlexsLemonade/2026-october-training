@@ -1,20 +1,20 @@
 title: Data Lab Training
-training_title: MONTH-TOPIC
+training_title: 2026 October Spatial Transcriptomics Workshop
 # The name of the repository (e.g., 2020-may-training)
 # We use training-specific-template to help with development
-repository: training-specific-template
+repository: 2026-october-training
 # Full URL to the repository
 # Again, using training-specific-template to aid in development
-repository_url: https://github.com/AlexsLemonade/training-specific-template
-start_date: YYYY-MM-DD
-end_date: YYYY-MM-DD
+repository_url: https://github.com/AlexsLemonade/2026-october-training
+start_date: 2026-10-06
+end_date: 2026-10-08
 # Specific release in AlexsLemonade/training-modules
 # We use master to make development easier
 release_tag: master
 
 #### Workshop information ####
-workshop_type: "" # Update this value to either: "remote" or "in-person"
-workshop_content: "" # Update this value to one of: "intro-r", "intro-bulk", "intro-single-cell", "advanced-single-cell", or "spatial"
+workshop_type: "in-person" # Update this value to either: "remote" or "in-person"
+workshop_content: "spatial" # Update this value to one of: "intro-r", "intro-bulk", "intro-single-cell", "advanced-single-cell", or "spatial"
 includes_r: 
   - intro-r
   - intro-bulk

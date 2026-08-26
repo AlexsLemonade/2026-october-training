@@ -11,10 +11,8 @@ nav_title: Schedule
 |-------------|------------------------------------------------
 | **Day 1**   | **Date** <br> **Topic**
 | 12:00 PM    | Welcome, Introductions and Getting Started
-|             | [Welcome Slides (PDF)](../slides/Workshop_Introduction.pdf)
+|             | [Welcome Slides (PDF)](#../slides/Workshop_Introduction.pdf)
 | 5:00        | End
 | **Day 2**   | **Date**
 | **Day 3**   | **Date**
-| **Day 4**   | **Date**
-| **Day 5**   | **Date**
 | 5:00        | Adjourn
