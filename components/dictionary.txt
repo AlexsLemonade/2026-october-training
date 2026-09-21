@@ -30,6 +30,7 @@ customizable
 Cynwyd
 Danio
 DCP
+Deconvolution
 DESeq
 DESeqDataset
 discoverable
@@ -78,6 +79,7 @@ Lun
 LTS
 Lyft
 macOS
+Manayunk
 miQC
 md
 modifided
@@ -113,6 +115,7 @@ SingleCellExperiment
 SingleR
 Slackbot
 socio
+SOMO
 Squidpy
 src
 Stoeckius
@@ -133,6 +136,7 @@ uncompress
 unmute
 Ventura
 videoconferences
+Xenium
 YAML
 Zakeri
 zebrafish
