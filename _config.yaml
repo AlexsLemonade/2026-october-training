@@ -25,6 +25,7 @@ includes_r:
 instructors:
   - Ally Hawkins
   - Josh Shapiro
+  - Stephanie Spielman
 
 #### Docker information #####
 # The Docker user will almost always be ccdl, which is why this is here
