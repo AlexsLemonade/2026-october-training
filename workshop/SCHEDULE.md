@@ -47,7 +47,7 @@ The planned schedule for the October 6-8, 2026 Data Lab Training Workshop appear
 | **Day 3** | **2026-10-08**
 | 9:00 AM   | Questions and Review
 | 9:30 AM   | Processing Xenium Data
-|           | [Spatial Neighborhood Analysis slides (PDF)](../slides/2026-10-08_neighborhood-analysis.pdf)
+|           | [Processing Xenium and Spatial Neighborhood Analysis slides (PDF)](../slides/2026-10-08_neighborhood-analysis.pdf)
 |           | [Instruction notebook](../completed-notebooks/spatial/05-xenium_processing.nb.html)
 | 11:00 AM  | *Coffee break*
 | 11:15 AM  | Spatial Neighborhood Analysis
