@@ -51,7 +51,7 @@ The planned schedule for the October 6-8, 2026 Data Lab Training Workshop appear
 |           | [Instruction notebook](../completed-notebooks/spatial/05-xenium_processing.nb.html)
 | 11:00 AM  | *Coffee break*
 | 11:15 AM  | Spatial Neighborhood Analysis
-|           | [Instruction notebook](../completed-notebooks/spatial/06-neighborhood-analysis.nb.html)
+|           | [Instruction notebook](../completed-notebooks/spatial/06-neighborhood_analysis.nb.html)
 | 12:30 PM  | *Lunch*
 | 1:30 PM   | Spatial Neighborhood Analysis, continued
 | 2:00 PM   | Exercises, Questions, and Independent Projects
